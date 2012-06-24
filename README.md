@@ -3,7 +3,7 @@ altMovements
 This keyboard shortcuts will enable you to make any movmements in a text edtor much easier.
 All the common operations like up , down , left , right movements , selections and erase, cut-copy-paste
 
-  ^!+r::reload
+	^!+r::reload
 
 	!i::send, {up}
 	!j::send, {left}
